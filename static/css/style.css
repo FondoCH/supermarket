@@ -1,0 +1,28 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    background: white;
+}
+.header{
+    background: black;
+}
+.gari{
+    display: flex;
+    margin-right: 5px;
+    padding-right: 2px;
+}
+.kikombe{
+    background: transparent;
+
+
+   
+}
+.kikombe a{
+    color: blue;
+}
+.kikombe a:hover{
+    background-color: brown;
+}
